@@ -1,0 +1,840 @@
+﻿Log file open, 03/10/18 10:10:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: src
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(615355888) SRandInit(615355888).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.179779
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.10-09.10.08:493][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.10-09.10.08:493][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.10-09.10.08:507][  0]LogInit: Computer: LAPTOP-3VQ242C0
+[2018.03.10-09.10.08:507][  0]LogInit: User: bemon
+[2018.03.10-09.10.08:507][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.10-09.10.08:507][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2018.03.10-09.10.08:507][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2018.03.10-09.10.08:507][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.10-09.10.08:507][  0]LogMemory: Process Physical Memory: 272.47 MB used, 272.47 MB peak
+[2018.03.10-09.10.08:507][  0]LogMemory: Process Virtual Memory: 269.98 MB used, 269.98 MB peak
+[2018.03.10-09.10.08:507][  0]LogMemory: Physical Memory: 8888.15 MB used,  7287.70 MB free, 16175.86 MB total
+[2018.03.10-09.10.08:507][  0]LogMemory: Virtual Memory: 682.59 MB used,  7287.70 MB free, 134217728.00 MB total
+[2018.03.10-09.10.08:677][  0]LogInit: Using OS detected language (pl-PL).
+[2018.03.10-09.10.08:677][  0]LogInit: Using OS detected locale (pl-PL).
+[2018.03.10-09.10.08:680][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the language.
+[2018.03.10-09.10.08:680][  0]LogTextLocalizationManager: No localization for 'pl-PL' exists, so 'en' will be used for the locale.
+[2018.03.10-09.10.09:216][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.10-09.10.09:464][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.10-09.10.09:490][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.03.10-09.10.09:490][  0]LogD3D11RHI:       2018/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.10-09.10.09:498][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.03.10-09.10.09:498][  0]LogD3D11RHI:       128/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.10-09.10.09:500][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.10-09.10.09:500][  0]LogD3D11RHI:       0/0/8087 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.10-09.10.09:500][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.10-09.10.09:510][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.10-09.10.09:510][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.03.10-09.10.09:510][  0]LogWindows: EnumDisplayDevices:
+[2018.03.10-09.10.09:510][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.03.10-09.10.09:510][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.03.10-09.10.09:511][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.03.10-09.10.09:511][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.10-09.10.09:511][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.03.10-09.10.09:511][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.10-09.10.09:511][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.10-09.10.09:511][  0]LogRHI: Texture pool is 1413 MB (70% of 2018 MB)
+[2018.03.10-09.10.09:527][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.10-09.10.09:540][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.03.10-09.10.09:542][  0]LogShaderCompilers: Guid format shader working directory is -7 characters bigger than the processId version (../../../../../../Users/bemon/Desktop/mad-hamish/src/Intermediate/Shaders/WorkingDirectory/25980/).
+[2018.03.10-09.10.09:542][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/bemon/AppData/Local/Temp/UnrealShaderWorkingDir/DCB7C4E34198A4752F39A794ED3C66D8/'.
+[2018.03.10-09.10.09:542][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.10-09.10.10:547][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.10-09.10.10:604][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.10-09.10.10:660][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.10-09.10.10:715][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.10-09.10.10:769][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.10-09.10.10:825][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.10-09.10.10:879][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.10-09.10.10:936][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.10-09.10.10:983][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.10-09.10.11:035][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.10-09.10.11:095][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.10-09.10.11:150][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.10-09.10.11:209][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.10-09.10.11:266][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.10-09.10.11:381][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.10-09.10.11:381][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.10-09.10.11:436][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.10-09.10.11:479][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.10-09.10.11:574][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.10-09.10.11:601][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.10-09.10.11:655][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.10-09.10.11:709][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.10-09.10.11:763][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.10-09.10.11:817][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.10-09.10.11:817][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.10-09.10.12:417][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.10-09.10.12:504][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/bemon/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.10-09.10.12:504][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/bemon/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.10-09.10.12:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/bemon/Desktop/mad-hamish/src/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.10-09.10.12:504][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.10-09.10.12:504][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/bemon/Desktop/mad-hamish/src/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.10-09.10.12:504][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.10-09.10.12:524][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.10-09.10.12:536][  0]LogDerivedDataCache: Using Local data cache path C:/Users/bemon/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.10-09.10.12:548][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.10-09.10.12:549][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.10-09.10.12:549][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.10-09.10.12:549][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.10-09.10.12:987][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.10-09.10.13:408][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.10-09.10.13:459][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.10-09.10.13:459][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.10-09.10.13:459][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.10-09.10.13:460][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.10-09.10.13:460][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.10-09.10.13:491][  0]LogNetVersion: src , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2999231980)
+[2018.03.10-09.10.13:690][  0]LogAssetRegistry: FAssetRegistry took 0.0288 seconds to start up
+[2018.03.10-09.10.14:253][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.045720 seconds
+[2018.03.10-09.10.14:261][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.10-09.10.14:261][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.10-09.10.14:261][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.10-09.10.14:333][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.10-09.10.17:717][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.03.10-09.10.17:758][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.10-09.10.17:800][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.10-09.10.18:622][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.10-09.10.19:153][  0]SourceControl: Source control is disabled
+[2018.03.10-09.10.19:153][  0]SourceControl: Source control is disabled
+[2018.03.10-09.10.19:215][  0]SourceControl: Source control is disabled
+[2018.03.10-09.10.19:275][  0]SourceControl: Source control is disabled
+[2018.03.10-09.10.20:263][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.10-09.10.20:586][  0]LogOcInput: OculusInput pre-init called
+[2018.03.10-09.10.21:220][  0]LogEngine: Initializing Engine...
+[2018.03.10-09.10.21:223][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.10-09.10.21:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.10-09.10.21:471][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.10-09.10.21:635][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.10-09.10.21:644][  0]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-09.10.21:659][  0]LogInit: FAudioDevice initialized.
+[2018.03.10-09.10.21:755][  0]LogDerivedDataCache: Saved boot cache 0.10s 78MB C:/Users/bemon/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.10-09.10.21:763][  0]LogInit: Texture streaming: Enabled
+[2018.03.10-09.10.21:894][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.10-09.10.22:059][  0]LogInit: Transaction tracking system initialized
+[2018.03.10-09.10.22:469][  0]BlueprintLog: New page: Editor Load
+[2018.03.10-09.10.23:596][  0]LocalizationService: Localization service is disabled
+[2018.03.10-09.10.24:212][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.03.10-09.10.24:212][  0]LogLinker: Warning: Can't find file '/Game/VehicleBP/VehicleOverview'
+[2018.03.10-09.10.24:212][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/VehicleBP/VehicleOverview.VehicleOverview_C'
+[2018.03.10-09.10.24:484][  0]LogConsoleResponse: Display: 
+[2018.03.10-09.10.24:705][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.10-09.10.24:705][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.10-09.10.24:705][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.10-09.10.26:053][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bemon/Desktop/mad-hamish/src/Content/' took 0.01s
+[2018.03.10-09.10.26:112][  0]SourceControl: Source control is disabled
+[2018.03.10-09.10.26:113][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.10-09.10.26:113][  0]LightingResults: New page: Lighting Build
+[2018.03.10-09.10.26:166][  0]MapCheck: New page: Map Check
+[2018.03.10-09.10.26:167][  0]LightingResults: New page: Lighting Build
+[2018.03.10-09.10.26:439][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.03.10-09.10.26:447][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.10-09.10.26:458][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.10-09.10.26:514][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.873ms to complete.
+[2018.03.10-09.10.26:514][  0]LogFileHelpers: Loading map 'Template_Default' took 0.402
+[2018.03.10-09.10.26:663][  0]LogCollectionManager: Loaded 0 collections in 0.001655 seconds
+[2018.03.10-09.10.26:744][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bemon/Desktop/mad-hamish/src/Saved/Collections/' took 0.01s
+[2018.03.10-09.10.26:744][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bemon/Desktop/mad-hamish/src/Content/Developers/bemon/Collections/' took 0.01s
+[2018.03.10-09.10.26:744][  0]LogFileCache: Scanning file cache for directory 'C:/Users/bemon/Desktop/mad-hamish/src/Content/Collections/' took 0.01s
+[2018.03.10-09.10.26:744][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.10-09.10.26:753][  0]LogContentBrowser: Native class hierarchy populated in 0.0083 seconds. Added 2377 classes and 525 folders.
+[2018.03.10-09.10.26:822][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.03.10-09.10.26:856][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.10-09.10.26:901][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.10-09.10.26:965][  0]LogSlate: Took 0.000278 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.10-09.10.26:967][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.10-09.10.26:977][  0]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.10-09.10.27:084][  0]LogRenderer: Reallocating scene render targets to support 1104x600 Format 10 NumSamples 1 (Frame:1).
+[2018.03.10-09.10.27:257][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.10-09.10.27:257][  0]LogLoad: (Engine Initialization) Total time: 21.37 seconds
+[2018.03.10-09.10.27:257][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.10-09.10.27:257][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.03.10-09.10.27:257][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.03.10-09.10.27:275][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.10-09.10.27:295][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.03.10-09.10.27:337][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-09.10.27:350][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.03.10-09.10.27:365][  1]LogAssetRegistry: Asset discovery search completed in 13.6964 seconds
+[2018.03.10-09.10.27:366][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.10-09.10.27:366][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000054 seconds (updated 0 objects)
+[2018.03.10-09.10.28:284][ 52]LogSlate: Took 0.000184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-09.10.31:721][257]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.10-09.10.32:037][257]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.03.10-09.10.32:812][257]LogBlueprint: Warning: [Compiler Tank] Get : 'Bullet Static Mesh' variable not found. Base class was probably changed. /Game/Blueprints/Tank.Tank
+[2018.03.10-09.10.32:819][257]LogBlueprint: Warning: [Compiler Tank] [0026.93] Compile of Tank successful, but with 1 Warning(s) [in 9 ms] (/Game/Blueprints/Tank.Tank)
+[2018.03.10-09.10.33:178][257]LogSlate: Took 0.000205 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.10-09.10.33:333][258]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.10-09.10.52:130][375]Cmd: MAP LOAD FILE="../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Levels/TankPlayground.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.10-09.10.52:142][375]LightingResults: New page: Lighting Build
+[2018.03.10-09.10.52:143][375]LoadErrors: New page: Loading map: TankPlayground.umap
+[2018.03.10-09.10.52:146][375]MapCheck: New page: Map Check
+[2018.03.10-09.10.52:146][375]LightingResults: New page: Lighting Build
+[2018.03.10-09.10.52:286][375]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.10.52:465][375]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.10-09.10.52:516][375]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.10-09.10.52:574][375]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 57.281ms to complete.
+[2018.03.10-09.10.52:574][375]LogFileHelpers: Loading map 'TankPlayground' took 0.445
+[2018.03.10-09.12.20:176][979]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Tank" FILE="../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Tank.uasset" SILENT=true
+[2018.03.10-09.12.20:277][979]LogSavePackage: Save=87.19ms
+[2018.03.10-09.12.20:277][979]LogSavePackage: Moving '../../../../../../Users/bemon/Desktop/mad-hamish/src/Saved/TankAC6989884A016DA074267891579B62B8.tmp' to '../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Tank.uasset'
+[2018.03.10-09.12.20:282][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Tank.uasset
+[2018.03.10-09.12.31:645][186]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-09.12.31:689][186]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.10-09.12.31:702][186]LogPlayLevel: [PlayLevel] Compiling Tank before play...
+[2018.03.10-09.12.32:145][186]LogPlayLevel: PlayLevel: Blueprint regeneration took 455 ms (1 blueprints)
+[2018.03.10-09.12.32:146][186]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:12:32 AM)
+[2018.03.10-09.12.32:146][186]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_TankPlayground
+[2018.03.10-09.12.32:172][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025884s)
+[2018.03.10-09.12.32:173][186]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.12.32:173][186]LogPlayLevel: PIE: World Init took: (0.001000s)
+[2018.03.10-09.12.32:173][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TankPlayground.TankPlayground to /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground (0.027280s)
+[2018.03.10-09.12.32:196][186]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-09.12.32:207][186]LogInit: FAudioDevice initialized.
+[2018.03.10-09.12.32:251][186]LogLoad: Game class is 'TankMode_C'
+[2018.03.10-09.12.32:255][186]LogWorld: Bringing World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.12.32
+[2018.03.10-09.12.32:255][186]LogWorld: Bringing up level for play took: 0.002935
+[2018.03.10-09.12.32:304][186]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.10-09.12.32:305][186]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.12.32:305][186]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.03.10-09.12.32:305][186]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.12.32:305][186]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.10-09.12.32:307][186]LogInit: WinSock: I am LAPTOP-3VQ242C0 (192.168.99.1:0)
+[2018.03.10-09.12.32:307][186]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.12.32:307][186]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.03.10-09.12.32:308][186]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_TankPlayground 0.257
+[2018.03.10-09.12.32:309][186]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:12:32 AM)
+[2018.03.10-09.12.32:358][186]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2018.03.10-09.12.32:358][186]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.12.32:358][186]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.03.10-09.12.32:358][186]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.10-09.12.32:358][186]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.10-09.12.32:358][186]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.12.32:358][186]LogNet: Game client on port 17777, rate 10000
+[2018.03.10-09.12.32:362][186]PIE: Play in editor start time for /Engine/Maps/Entry 0.311
+[2018.03.10-09.12.32:377][186]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52775
+[2018.03.10-09.12.32:377][186]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 246240211144226128220027028096031200218001091108245132105216
+[2018.03.10-09.12.32:410][186]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 246240211144226128220027028096031200218001091108245132105216
+[2018.03.10-09.12.32:495][187]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52775
+[2018.03.10-09.12.32:495][187]LogHandshake: SendChallengeAck. InCookie: 246240211144226128220027028096031200218001091108245132105216
+[2018.03.10-09.12.32:495][187]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52775
+[2018.03.10-09.12.32:495][187]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.12.32:495][187]LogNet: NotifyAcceptedConnection: Name: TankPlayground, TimeStamp: 03/10/18 10:12:32, [UNetConnection] RemoteAddr: 127.0.0.1:52775, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.12.32:495][187]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52775, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.12.32:496][187]LogNetVersion: src 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2563463526)
+[2018.03.10-09.12.32:496][187]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.10-09.12.32:516][188]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground: Accepted
+[2018.03.10-09.12.32:516][188]LogNet: Remote platform little endian=1
+[2018.03.10-09.12.32:516][188]LogNet: This platform little endian=1
+[2018.03.10-09.12.32:532][189]LogNet: Login request: /Engine/Maps/Entry userId: Invalid
+[2018.03.10-09.12.32:535][189]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_TankPlayground, Game: /Game/TankMode.TankMode_C)
+[2018.03.10-09.12.32:535][189]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_TankPlayground?game=/Game/TankMode.TankMode_C
+[2018.03.10-09.12.32:575][189]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.12.32:576][189]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.12.32:579][189]LogWorld: Bringing World /Game/Levels/UEDPIE_2_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.12.32
+[2018.03.10-09.12.32:579][189]LogWorld: Bringing up level for play took: 0.002748
+[2018.03.10-09.12.32:580][189]LogLoad: Took 0.044352 seconds to LoadMap(/Game/Levels/UEDPIE_1_TankPlayground)
+[2018.03.10-09.12.32:594][190]LogNet: Client netspeed is 10000
+[2018.03.10-09.12.32:594][190]LogNet: Join request: /Engine/Maps/Entry?SplitscreenCount=1
+[2018.03.10-09.12.32:596][190]LogNet: Join succeeded: 257
+[2018.03.10-09.12.32:612][191]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2018.03.10-09.12.40:759][597]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52775, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.12.40:759][597]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52775, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.12.40
+[2018.03.10-09.12.40:759][597]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52775, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.12.40:759][597]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.12.40:759][597]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.12.40
+[2018.03.10-09.12.40:759][597]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.12.40:763][597]LogExit: GameNetDriver None shut down
+[2018.03.10-09.12.40:763][597]LogExit: GameNetDriver None shut down
+[2018.03.10-09.12.49:595][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TankPlayground" FILE="../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Levels/TankPlayground.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.03.10-09.12.49:857][745]LogSavePackage: Save=230.85ms
+[2018.03.10-09.12.49:857][745]LogSavePackage: Moving '../../../../../../Users/bemon/Desktop/mad-hamish/src/Saved/TankPlayground45EC7D6B4D6C99B72A5D8487C8650C79.tmp' to '../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Levels/TankPlayground.umap'
+[2018.03.10-09.12.49:861][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Levels/TankPlayground.umap
+[2018.03.10-09.12.49:889][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/TankPlayground_BuiltData" FILE="../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Levels/TankPlayground_BuiltData.uasset" SILENT=true
+[2018.03.10-09.12.50:220][745]LogSavePackage: Save=316.58ms
+[2018.03.10-09.12.50:220][745]LogSavePackage: Moving '../../../../../../Users/bemon/Desktop/mad-hamish/src/Saved/TankPlayground_BuiltData76388A09486A504FDDB3C38FC783AE91.tmp' to '../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Levels/TankPlayground_BuiltData.uasset'
+[2018.03.10-09.12.50:223][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Levels/TankPlayground_BuiltData.uasset
+[2018.03.10-09.13.24:206][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Bullet.uasset" SILENT=true
+[2018.03.10-09.13.24:237][778]LogSavePackage: Save=19.34ms
+[2018.03.10-09.13.24:237][778]LogSavePackage: Moving '../../../../../../Users/bemon/Desktop/mad-hamish/src/Saved/Bullet1D7AF51C40ABDB6863C0B78997EB9AE7.tmp' to '../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Bullet.uasset'
+[2018.03.10-09.13.24:241][778]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Bullet.uasset
+[2018.03.10-09.13.28:939][ 59]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-09.13.28:965][ 59]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.10-09.13.28:968][ 59]LogBlueprint: Warning: [Tank] 'Bullet Static Mesh' variable not found. Base class was probably changed. /Game/Blueprints/Tank.Tank
+[2018.03.10-09.13.28:971][ 59]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.03.10-09.13.29:261][ 59]LogPlayLevel: PlayLevel: Blueprint regeneration took 295 ms (1 blueprints)
+[2018.03.10-09.13.29:262][ 59]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:13:29 AM)
+[2018.03.10-09.13.29:262][ 59]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_TankPlayground
+[2018.03.10-09.13.29:277][ 59]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014688s)
+[2018.03.10-09.13.29:278][ 59]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.13.29:278][ 59]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2018.03.10-09.13.29:278][ 59]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TankPlayground.TankPlayground to /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground (0.015905s)
+[2018.03.10-09.13.29:298][ 59]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-09.13.29:308][ 59]LogInit: FAudioDevice initialized.
+[2018.03.10-09.13.29:340][ 59]LogLoad: Game class is 'TankMode_C'
+[2018.03.10-09.13.29:344][ 59]LogWorld: Bringing World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.13.29
+[2018.03.10-09.13.29:345][ 59]LogWorld: Bringing up level for play took: 0.003346
+[2018.03.10-09.13.29:346][ 59]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.13.29:346][ 59]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.03.10-09.13.29:346][ 59]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.13.29:347][ 59]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.10-09.13.29:347][ 59]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.13.29:347][ 59]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.03.10-09.13.29:347][ 59]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_TankPlayground -0.703
+[2018.03.10-09.13.29:348][ 59]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:13:29 AM)
+[2018.03.10-09.13.29:394][ 59]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2018.03.10-09.13.29:394][ 59]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.13.29:394][ 59]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.03.10-09.13.29:394][ 59]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.10-09.13.29:394][ 59]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.10-09.13.29:394][ 59]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.13.29:394][ 59]LogNet: Game client on port 17777, rate 10000
+[2018.03.10-09.13.29:398][ 59]PIE: Play in editor start time for /Engine/Maps/Entry -0.652
+[2018.03.10-09.13.29:408][ 59]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59174
+[2018.03.10-09.13.29:409][ 59]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 242149125232029125019128009042038240060030119177027135067048
+[2018.03.10-09.13.29:410][ 59]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 242149125232029125019128009042038240060030119177027135067048
+[2018.03.10-09.13.29:477][ 60]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59174
+[2018.03.10-09.13.29:477][ 60]LogHandshake: SendChallengeAck. InCookie: 242149125232029125019128009042038240060030119177027135067048
+[2018.03.10-09.13.29:477][ 60]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59174
+[2018.03.10-09.13.29:477][ 60]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.13.29:478][ 60]LogNet: NotifyAcceptedConnection: Name: TankPlayground, TimeStamp: 03/10/18 10:13:29, [UNetConnection] RemoteAddr: 127.0.0.1:59174, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.13.29:478][ 60]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59174, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.13.29:479][ 60]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.10-09.13.29:493][ 61]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground: Accepted
+[2018.03.10-09.13.29:493][ 61]LogNet: Remote platform little endian=1
+[2018.03.10-09.13.29:493][ 61]LogNet: This platform little endian=1
+[2018.03.10-09.13.29:509][ 62]LogNet: Login request: /Engine/Maps/Entry userId: Invalid
+[2018.03.10-09.13.29:510][ 62]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_TankPlayground, Game: /Game/TankMode.TankMode_C)
+[2018.03.10-09.13.29:516][ 62]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_TankPlayground?game=/Game/TankMode.TankMode_C
+[2018.03.10-09.13.29:555][ 62]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.13.29:555][ 62]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.13.29:559][ 62]LogWorld: Bringing World /Game/Levels/UEDPIE_2_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.13.29
+[2018.03.10-09.13.29:560][ 62]LogWorld: Bringing up level for play took: 0.003350
+[2018.03.10-09.13.29:560][ 62]LogLoad: Took 0.043338 seconds to LoadMap(/Game/Levels/UEDPIE_1_TankPlayground)
+[2018.03.10-09.13.29:574][ 63]LogNet: Client netspeed is 10000
+[2018.03.10-09.13.29:574][ 63]LogNet: Join request: /Engine/Maps/Entry?SplitscreenCount=1
+[2018.03.10-09.13.29:575][ 63]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1820.000 Y=160.000 Z=212.000] for [Tank_C]
+[2018.03.10-09.13.29:575][ 63]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type Tank_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 1820.000000 160.000015 212.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2018.03.10-09.13.29:576][ 63]LogNet: Join succeeded: 259
+[2018.03.10-09.13.37:820][510]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59174, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.13.37:820][510]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59174, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.13.37
+[2018.03.10-09.13.37:820][510]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59174, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.13.37:820][510]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.13.37:820][510]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.13.37
+[2018.03.10-09.13.37:820][510]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.13.37:823][510]LogExit: GameNetDriver None shut down
+[2018.03.10-09.13.37:823][510]LogExit: GameNetDriver None shut down
+[2018.03.10-09.14.19:388][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Bullet" FILE="../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Bullet.uasset" SILENT=true
+[2018.03.10-09.14.19:412][986]LogSavePackage: Save=18.04ms
+[2018.03.10-09.14.19:412][986]LogSavePackage: Moving '../../../../../../Users/bemon/Desktop/mad-hamish/src/Saved/Bullet9E8B2DB4438239761A8D47B38F0B4EEC.tmp' to '../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Bullet.uasset'
+[2018.03.10-09.14.19:417][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/bemon/Desktop/mad-hamish/src/Content/Blueprints/Bullet.uasset
+[2018.03.10-09.14.21:614][118]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-09.14.21:633][118]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.10-09.14.21:641][118]LogBlueprint: Warning: [Tank] 'Bullet Static Mesh' variable not found. Base class was probably changed. /Game/Blueprints/Tank.Tank
+[2018.03.10-09.14.21:643][118]LogPlayLevel: [PlayLevel] Compiling Bullet before play...
+[2018.03.10-09.14.22:034][118]LogPlayLevel: PlayLevel: Blueprint regeneration took 400 ms (1 blueprints)
+[2018.03.10-09.14.22:035][118]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:22 AM)
+[2018.03.10-09.14.22:035][118]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_TankPlayground
+[2018.03.10-09.14.22:050][118]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015398s)
+[2018.03.10-09.14.22:051][118]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.22:052][118]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2018.03.10-09.14.22:052][118]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TankPlayground.TankPlayground to /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground (0.016832s)
+[2018.03.10-09.14.22:072][118]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-09.14.22:083][118]LogInit: FAudioDevice initialized.
+[2018.03.10-09.14.22:115][118]LogLoad: Game class is 'TankMode_C'
+[2018.03.10-09.14.22:119][118]LogWorld: Bringing World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.22
+[2018.03.10-09.14.22:119][118]LogWorld: Bringing up level for play took: 0.002926
+[2018.03.10-09.14.22:120][118]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.22:121][118]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.03.10-09.14.22:121][118]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.22:121][118]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.10-09.14.22:121][118]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.22:121][118]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2018.03.10-09.14.22:122][118]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_TankPlayground 0.071
+[2018.03.10-09.14.22:123][118]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:22 AM)
+[2018.03.10-09.14.22:167][118]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2018.03.10-09.14.22:167][118]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.22:167][118]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.03.10-09.14.22:167][118]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.10-09.14.22:167][118]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.10-09.14.22:168][118]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.22:168][118]LogNet: Game client on port 17777, rate 10000
+[2018.03.10-09.14.22:171][118]PIE: Play in editor start time for /Engine/Maps/Entry 0.12
+[2018.03.10-09.14.22:182][118]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54763
+[2018.03.10-09.14.22:183][118]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 119040089102023100115219211013162006009158225042206082112033
+[2018.03.10-09.14.22:184][118]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 119040089102023100115219211013162006009158225042206082112033
+[2018.03.10-09.14.22:252][119]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:54763
+[2018.03.10-09.14.22:252][119]LogHandshake: SendChallengeAck. InCookie: 119040089102023100115219211013162006009158225042206082112033
+[2018.03.10-09.14.22:252][119]LogNet: Server accepting post-challenge connection from: 127.0.0.1:54763
+[2018.03.10-09.14.22:253][119]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.22:253][119]LogNet: NotifyAcceptedConnection: Name: TankPlayground, TimeStamp: 03/10/18 10:14:22, [UNetConnection] RemoteAddr: 127.0.0.1:54763, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.22:253][119]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:54763, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.22:254][119]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.10-09.14.22:270][120]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground: Accepted
+[2018.03.10-09.14.22:270][120]LogNet: Remote platform little endian=1
+[2018.03.10-09.14.22:270][120]LogNet: This platform little endian=1
+[2018.03.10-09.14.22:285][121]LogNet: Login request: /Engine/Maps/Entry userId: Invalid
+[2018.03.10-09.14.22:286][121]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_TankPlayground, Game: /Game/TankMode.TankMode_C)
+[2018.03.10-09.14.22:292][121]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_TankPlayground?game=/Game/TankMode.TankMode_C
+[2018.03.10-09.14.22:328][121]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.22:328][121]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.22:333][121]LogWorld: Bringing World /Game/Levels/UEDPIE_2_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.22
+[2018.03.10-09.14.22:333][121]LogWorld: Bringing up level for play took: 0.003734
+[2018.03.10-09.14.22:333][121]LogLoad: Took 0.041118 seconds to LoadMap(/Game/Levels/UEDPIE_1_TankPlayground)
+[2018.03.10-09.14.22:347][122]LogNet: Client netspeed is 10000
+[2018.03.10-09.14.22:347][122]LogNet: Join request: /Engine/Maps/Entry?SplitscreenCount=1
+[2018.03.10-09.14.22:350][122]LogNet: Join succeeded: 261
+[2018.03.10-09.14.32:795][657]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54763, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.14.32:795][657]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:54763, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.14.32
+[2018.03.10-09.14.32:795][657]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:54763, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.14.32:795][657]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.14.32:795][657]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.14.32
+[2018.03.10-09.14.32:795][657]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.14.32:798][657]LogExit: GameNetDriver None shut down
+[2018.03.10-09.14.32:798][657]LogExit: GameNetDriver None shut down
+[2018.03.10-09.14.34:024][730]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-09.14.34:041][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-09.14.34:042][730]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:34 AM)
+[2018.03.10-09.14.34:042][730]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_TankPlayground
+[2018.03.10-09.14.34:058][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015374s)
+[2018.03.10-09.14.34:059][730]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.34:059][730]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2018.03.10-09.14.34:059][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TankPlayground.TankPlayground to /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground (0.016868s)
+[2018.03.10-09.14.34:079][730]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-09.14.34:088][730]LogInit: FAudioDevice initialized.
+[2018.03.10-09.14.34:119][730]LogLoad: Game class is 'TankMode_C'
+[2018.03.10-09.14.34:122][730]LogWorld: Bringing World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.34
+[2018.03.10-09.14.34:123][730]LogWorld: Bringing up level for play took: 0.002981
+[2018.03.10-09.14.34:124][730]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.34:124][730]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.03.10-09.14.34:124][730]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.34:124][730]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.10-09.14.34:125][730]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.34:125][730]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2018.03.10-09.14.34:126][730]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_TankPlayground 0.075
+[2018.03.10-09.14.34:127][730]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:34 AM)
+[2018.03.10-09.14.34:172][730]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2018.03.10-09.14.34:172][730]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.34:172][730]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.03.10-09.14.34:172][730]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.10-09.14.34:172][730]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.10-09.14.34:172][730]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.34:172][730]LogNet: Game client on port 17777, rate 10000
+[2018.03.10-09.14.34:176][730]PIE: Play in editor start time for /Engine/Maps/Entry 0.125
+[2018.03.10-09.14.34:187][730]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52881
+[2018.03.10-09.14.34:187][730]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 202210124047111133001206240170136088216079129181225047048190
+[2018.03.10-09.14.34:188][730]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 202210124047111133001206240170136088216079129181225047048190
+[2018.03.10-09.14.34:258][731]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52881
+[2018.03.10-09.14.34:258][731]LogHandshake: SendChallengeAck. InCookie: 202210124047111133001206240170136088216079129181225047048190
+[2018.03.10-09.14.34:258][731]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52881
+[2018.03.10-09.14.34:258][731]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.34:258][731]LogNet: NotifyAcceptedConnection: Name: TankPlayground, TimeStamp: 03/10/18 10:14:34, [UNetConnection] RemoteAddr: 127.0.0.1:52881, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.34:258][731]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52881, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.34:259][731]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.10-09.14.34:274][732]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground: Accepted
+[2018.03.10-09.14.34:274][732]LogNet: Remote platform little endian=1
+[2018.03.10-09.14.34:274][732]LogNet: This platform little endian=1
+[2018.03.10-09.14.34:290][733]LogNet: Login request: /Engine/Maps/Entry userId: Invalid
+[2018.03.10-09.14.34:291][733]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_TankPlayground, Game: /Game/TankMode.TankMode_C)
+[2018.03.10-09.14.34:291][733]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_TankPlayground?game=/Game/TankMode.TankMode_C
+[2018.03.10-09.14.34:329][733]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.34:329][733]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.34:334][733]LogWorld: Bringing World /Game/Levels/UEDPIE_2_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.34
+[2018.03.10-09.14.34:334][733]LogWorld: Bringing up level for play took: 0.003424
+[2018.03.10-09.14.34:334][733]LogLoad: Took 0.042871 seconds to LoadMap(/Game/Levels/UEDPIE_1_TankPlayground)
+[2018.03.10-09.14.34:347][734]LogNet: Client netspeed is 10000
+[2018.03.10-09.14.34:347][734]LogNet: Join request: /Engine/Maps/Entry?SplitscreenCount=1
+[2018.03.10-09.14.34:349][734]LogNet: Join succeeded: 263
+[2018.03.10-09.14.50:245][552]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52881, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.14.50:245][552]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52881, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.14.50
+[2018.03.10-09.14.50:245][552]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52881, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.14.50:245][552]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.14.50:245][552]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.14.50
+[2018.03.10-09.14.50:245][552]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.14.50:249][552]LogExit: GameNetDriver None shut down
+[2018.03.10-09.14.50:249][552]LogExit: GameNetDriver None shut down
+[2018.03.10-09.14.52:167][666]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-09.14.52:185][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-09.14.52:186][666]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:52 AM)
+[2018.03.10-09.14.52:186][666]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_TankPlayground
+[2018.03.10-09.14.52:200][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013996s)
+[2018.03.10-09.14.52:201][666]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.52:201][666]LogPlayLevel: PIE: World Init took: (0.000827s)
+[2018.03.10-09.14.52:201][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TankPlayground.TankPlayground to /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground (0.015113s)
+[2018.03.10-09.14.52:223][666]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-09.14.52:232][666]LogInit: FAudioDevice initialized.
+[2018.03.10-09.14.52:268][666]LogLoad: Game class is 'TankMode_C'
+[2018.03.10-09.14.52:273][666]LogWorld: Bringing World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.52
+[2018.03.10-09.14.52:273][666]LogWorld: Bringing up level for play took: 0.003533
+[2018.03.10-09.14.52:275][666]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.52:275][666]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2018.03.10-09.14.52:275][666]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.52:275][666]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.10-09.14.52:275][666]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.52:275][666]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2018.03.10-09.14.52:276][666]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_TankPlayground 0.225
+[2018.03.10-09.14.52:277][666]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:52 AM)
+[2018.03.10-09.14.52:324][666]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2018.03.10-09.14.52:324][666]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.52:324][666]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2018.03.10-09.14.52:324][666]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.10-09.14.52:324][666]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.10-09.14.52:325][666]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.52:325][666]LogNet: Game client on port 17777, rate 10000
+[2018.03.10-09.14.52:328][666]PIE: Play in editor start time for /Engine/Maps/Entry 0.278
+[2018.03.10-09.14.52:338][666]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52885
+[2018.03.10-09.14.52:339][666]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 172160121017183057146150020207034053149212089059102158136077
+[2018.03.10-09.14.52:341][666]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 172160121017183057146150020207034053149212089059102158136077
+[2018.03.10-09.14.52:412][667]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52885
+[2018.03.10-09.14.52:412][667]LogHandshake: SendChallengeAck. InCookie: 172160121017183057146150020207034053149212089059102158136077
+[2018.03.10-09.14.52:412][667]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52885
+[2018.03.10-09.14.52:412][667]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.52:412][667]LogNet: NotifyAcceptedConnection: Name: TankPlayground, TimeStamp: 03/10/18 10:14:52, [UNetConnection] RemoteAddr: 127.0.0.1:52885, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.52:412][667]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52885, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.52:413][667]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.10-09.14.52:429][668]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground: Accepted
+[2018.03.10-09.14.52:429][668]LogNet: Remote platform little endian=1
+[2018.03.10-09.14.52:429][668]LogNet: This platform little endian=1
+[2018.03.10-09.14.52:446][669]LogNet: Login request: /Engine/Maps/Entry userId: Invalid
+[2018.03.10-09.14.52:447][669]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_TankPlayground, Game: /Game/TankMode.TankMode_C)
+[2018.03.10-09.14.52:447][669]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_TankPlayground?game=/Game/TankMode.TankMode_C
+[2018.03.10-09.14.52:482][669]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.52:482][669]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.52:486][669]LogWorld: Bringing World /Game/Levels/UEDPIE_2_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.52
+[2018.03.10-09.14.52:486][669]LogWorld: Bringing up level for play took: 0.002965
+[2018.03.10-09.14.52:486][669]LogLoad: Took 0.039613 seconds to LoadMap(/Game/Levels/UEDPIE_1_TankPlayground)
+[2018.03.10-09.14.52:501][670]LogNet: Client netspeed is 10000
+[2018.03.10-09.14.52:501][670]LogNet: Join request: /Engine/Maps/Entry?SplitscreenCount=1
+[2018.03.10-09.14.52:504][670]LogNet: Join succeeded: 265
+[2018.03.10-09.14.52:775][679]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52885, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.14.52:776][679]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:52885, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.14.52
+[2018.03.10-09.14.52:776][679]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:52885, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.03.10-09.14.52:776][679]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.14.52:776][679]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.10-09.14.52
+[2018.03.10-09.14.52:776][679]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.03.10-09.14.52:779][679]LogExit: GameNetDriver None shut down
+[2018.03.10-09.14.52:779][679]LogExit: GameNetDriver None shut down
+[2018.03.10-09.14.54:430][777]LogTemp: Repeating last play command: Selected Viewport
+[2018.03.10-09.14.54:449][777]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.10-09.14.54:450][777]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:54 AM)
+[2018.03.10-09.14.54:451][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_1_TankPlayground
+[2018.03.10-09.14.54:465][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014103s)
+[2018.03.10-09.14.54:465][777]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.54:465][777]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2018.03.10-09.14.54:466][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/TankPlayground.TankPlayground to /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground (0.015077s)
+[2018.03.10-09.14.54:487][777]LogInit: XAudio2 using 'Głośniki (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.10-09.14.54:497][777]LogInit: FAudioDevice initialized.
+[2018.03.10-09.14.54:530][777]LogLoad: Game class is 'TankMode_C'
+[2018.03.10-09.14.54:534][777]LogWorld: Bringing World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.54
+[2018.03.10-09.14.54:535][777]LogWorld: Bringing up level for play took: 0.003421
+[2018.03.10-09.14.54:536][777]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.54:536][777]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2018.03.10-09.14.54:536][777]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.54:536][777]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.10-09.14.54:537][777]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.54:537][777]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 17777
+[2018.03.10-09.14.54:537][777]PIE: Play in editor start time for /Game/Levels/UEDPIE_1_TankPlayground 0.487
+[2018.03.10-09.14.54:538][777]PIE: New page: PIE session: TankPlayground (Mar 10, 2018, 11:14:54 AM)
+[2018.03.10-09.14.54:586][777]LogNet: Browse: 127.0.0.1:17777//Engine/Maps/Entry
+[2018.03.10-09.14.54:586][777]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.54:586][777]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2018.03.10-09.14.54:586][777]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.10-09.14.54:586][777]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.10-09.14.54:587][777]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.54:587][777]LogNet: Game client on port 17777, rate 10000
+[2018.03.10-09.14.54:594][777]PIE: Play in editor start time for /Engine/Maps/Entry 0.543
+[2018.03.10-09.14.54:610][777]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52886
+[2018.03.10-09.14.54:610][777]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 102078047126113123102167137197121200134030135028208111241223
+[2018.03.10-09.14.54:611][777]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 102078047126113123102167137197121200134030135028208111241223
+[2018.03.10-09.14.54:680][778]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:52886
+[2018.03.10-09.14.54:680][778]LogHandshake: SendChallengeAck. InCookie: 102078047126113123102167137197121200134030135028208111241223
+[2018.03.10-09.14.54:680][778]LogNet: Server accepting post-challenge connection from: 127.0.0.1:52886
+[2018.03.10-09.14.54:681][778]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.10-09.14.54:681][778]LogNet: NotifyAcceptedConnection: Name: TankPlayground, TimeStamp: 03/10/18 10:14:54, [UNetConnection] RemoteAddr: 127.0.0.1:52886, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.54:681][778]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:52886, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.10-09.14.54:681][778]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.10-09.14.54:695][779]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Levels/UEDPIE_1_TankPlayground.TankPlayground: Accepted
+[2018.03.10-09.14.54:695][779]LogNet: Remote platform little endian=1
+[2018.03.10-09.14.54:695][779]LogNet: This platform little endian=1
+[2018.03.10-09.14.54:712][780]LogNet: Login request: /Engine/Maps/Entry userId: Invalid
+[2018.03.10-09.14.54:713][780]LogNet: Welcomed by server (Level: /Game/Levels/UEDPIE_1_TankPlayground, Game: /Game/TankMode.TankMode_C)
+[2018.03.10-09.14.54:713][780]LogLoad: LoadMap: 127.0.0.1:17777//Game/Levels/UEDPIE_1_TankPlayground?game=/Game/TankMode.TankMode_C
+[2018.03.10-09.14.54:747][780]LogAIModule: Creating AISystem for world TankPlayground
+[2018.03.10-09.14.54:747][780]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.10-09.14.54:752][780]LogWorld: Bringing World /Game/Levels/UEDPIE_2_TankPlayground.TankPlayground up for play (max tick rate 60) at 2018.03.10-10.14.54
+[2018.03.10-09.14.54:752][780]LogWorld: Bringing up level for play took: 0.003244
+[2018.03.10-09.14.54:753][780]LogLoad: Took 0.039357 seconds to LoadMap(/Game/Levels/UEDPIE_1_TankPlayground)
+[2018.03.10-09.14.54:766][781]LogNet: Client netspeed is 10000
+[2018.03.10-09.14.54:767][781]LogNet: Join request: /Engine/Maps/Entry?SplitscreenCount=1
+[2018.03.10-09.14.54:768][781]LogNet: Join succeeded: 267
+[2018.03.10-09.15.06:178][371]LogOutputDevice: Warning: 
+
+Script Stack:
+Tank_C.ExecuteUbergraph_Tank
+Tank_C.InpAxisEvt_LookUp_K2Node_InputAxisEvent_25
+
+[2018.03.10-09.15.06:755][371]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.576 s
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: === Handled ensure: ===
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: 
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: Ensure condition failed: OutTM.isValid() [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Runtime\Engine\Private\PhysicsEngine\BodySetup.cpp] [Line: 851]
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: 
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: Stack: 
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000053082786 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000052E2123A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000052E3B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044C88A58 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044C87457 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044C95ED0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044C406F5 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044C54164 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044C82306 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044C72963 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000444E3343 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000444D634B UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044538369 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000445512C6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000004452F828 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000444D3AA1 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044544EBC UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000445091CC UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000445305BA UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000043F6FDCC UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000054045264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000054209B74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000005421FA41 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000054221B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000005420A57E UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000054221B72 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000054045264 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000054220F66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000004402E64B UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000004517F29A UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000451B139A UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044D2327C UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044D36F66 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044D20DDB UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044D3613A UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000440058B6 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000045059BDB UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000004505DD0B UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000052CE4845 UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000052CE4E2A UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000052D0589E UE4Editor-Core.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000045077E11 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000004507C632 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000004496D104 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000044976448 UE4Editor-Engine.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000042B56BA6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x0000000043404AC6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000B1FF5A26 UE4Editor.exe!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000B2005430 UE4Editor.exe!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000B20054AA UE4Editor.exe!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000B2012379 UE4Editor.exe!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x00000000B2013D57 UE4Editor.exe!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000008B3B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: [Callstack] 0x000000008B68EFB1 ntdll.dll!UnknownFunction []
+[2018.03.10-09.15.06:755][371]LogOutputDevice: Error: 
+[2018.03.10-09.15.06:761][371]LogStats:                SubmitErrorReport -  0.000 s
